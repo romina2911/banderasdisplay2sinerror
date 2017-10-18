@@ -1,0 +1,47 @@
+*  {
+  box-sizing: border-box;
+  font-family: "times new roman";
+
+}
+
+
+
+
+h1 {
+  background-color:#FFCC00;
+  color: black;
+  font-size: large;
+  font-style: normal;
+  padding-left: 10px;
+  padding-top: 10px;
+  display: inline-block;
+  width: 300px;
+  }
+
+  div {
+  height: 100px;
+  }
+
+h3 {
+  background-color:#333333;
+  color: white;
+  font-size: large;
+  font-style: normal;
+  padding-left: 10px;
+  padding-top: 10px;
+  text-decoration: none;
+  display: inline-block;
+  height: 300px;
+
+}
+
+h2 {
+  background-color:#FFCC00;
+  color: black;
+  font-size: large;
+  font-style: normal;
+  padding-left: 10px;
+  padding-top: 10px;
+  text-decoration: none;
+  display: inline;
+  height: 300px;
